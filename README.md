@@ -3,9 +3,9 @@ Simple on screen controller made with React Native Reanimated library. 🐎
 </p>
 
 <h1 align="center">Gamepad 🎮</h1>
-<br>
+<be>
 
-<img src="./screen.mp4" width="400"></img>
+https://github.com/vladimir-vovk/gamepad/assets/3159737/d4c5cf98-8168-403c-9c43-f079f20f2e16
 
 ## Quick start
 
